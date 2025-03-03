@@ -140,3 +140,12 @@ footer .container {
     margin: 0 auto;
     padding: 0 20px;
 }
+#grads {
+ margin-right: 300px;
+ background-image: url();
+ background-size: cover;
+ background-repeat: no-repeat;
+ text-align: center;
+ width: fit-content;
+ height: 700px;
+}
